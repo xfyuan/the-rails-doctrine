@@ -44,6 +44,9 @@ Ruby 不仅承认，而且从设计上适应和提升软件工程师的感受。
 
 ```rb
 $ irb
+
+irb(main):001:0> 1 + 2
+=> 3
 irb(main):001:0> exit
 $ irb
 irb(main):001:0> quit
